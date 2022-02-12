@@ -26,6 +26,11 @@ It then grabs each car expected position from the image then uses OPENCV to dete
 
 ![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/car2.png?raw=true)
 
+
+### Car 3 (Home)
+
+![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/car3.png?raw=true)
+
 ## Running Locally
 
 Make sure you have Python installed
@@ -33,6 +38,8 @@ Make sure you have Python installed
 After clone
 
 ```
+$ git clone https://github.com/muhtacinm/who-is-home.git # or clone your own fork
+$ cd who-is-home
 $ pip install -r requirements.txt
 $ python app.py
 ```
