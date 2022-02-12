@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+
+{% block header %}
+    <h1 class="text-center  display-4">{{ the_data['name']|title }} {{ the_data['status']|title }}</h1>
+
+{% endblock %}
+
+{% block image %}
+<div class="text-center">
+    <hr class="my-4">
+    <img src="/static/{{ the_data['image'] }}" class="img-fluid" alt="Responsive image">    
+    <img src="/static/{{ the_data['name'] }}.jpg" class="img-fluid" alt="Responsive image">    
+ </div>
+{% endblock %}

@@ -1,0 +1,4 @@
+cvlib
+Flask
+opencv_python
+Pillow
