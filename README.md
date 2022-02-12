@@ -10,6 +10,20 @@ It then grabs each car expected position from the image then uses OPENCV to dete
 1. Informs user on who is home depending on car location. 
 
 
+
+## Pages
+
+### Landing Page
+
+![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/land.png?raw=true)
+
+### Car 1 (Not Home)
+
+![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/car1.png?raw=true)
+
+
+### Car 2 (Home)
+
 ![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/car3.png?raw=true)
 
 ## Running Locally
