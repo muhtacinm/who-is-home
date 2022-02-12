@@ -15,7 +15,7 @@ It then grabs each car expected position from the image then uses OPENCV to dete
 
 ### Landing Page
 
-![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/land.png?raw=true)
+![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/landing.png?raw=true)
 
 ### Car 1 (Not Home)
 
@@ -24,7 +24,7 @@ It then grabs each car expected position from the image then uses OPENCV to dete
 
 ### Car 2 (Home)
 
-![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/car3.png?raw=true)
+![alt text](https://github.com/muhtacinm/who-is-home/blob/master/examples/car2.png?raw=true)
 
 ## Running Locally
 
